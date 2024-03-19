@@ -1,0 +1,19 @@
+h1, p {
+    color: red;
+}
+
+h2,div a {
+    color: green;
+}
+
+h3, div>a {
+    color: gray;
+}
+
+p + a {
+    color: blueviolet;
+}
+
+a~b {
+    color: aqua;
+}

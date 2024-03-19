@@ -1,0 +1,30 @@
+#p {
+    color: red;
+}
+
+#div{
+    color: yellow;
+}
+
+a:link {
+    color: green;
+}
+
+#polite {
+    font-family: cursive;
+}
+
+#rude {
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+.first {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.done {
+    text-decoration: line-through;
+}

@@ -1,0 +1,16 @@
+div.teste1{
+    display: block;
+    width: 200px;
+    margin: auto;
+    border: 3px solid green;
+    background-color: yellow;
+}
+
+div.teste2 {
+    display: block;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid red;
+    background-color: green;
+}

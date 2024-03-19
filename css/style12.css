@@ -1,0 +1,26 @@
+div.teste1 {
+    width: 100px;
+    height: 500px;
+    background-color: green;
+}
+
+div.teste2 {
+    width: 100px;
+    height: 400px;
+    background-color: blue;
+}
+
+div.teste3 {
+    width: 100px;
+    height: 300px;
+    background-color: yellow;
+}
+
+div.teste4 {
+    position: fixed;
+    top: 25px;
+    left: 50px;
+    width: 100px;
+    height: 70px;
+    background-color: deeppink;
+}

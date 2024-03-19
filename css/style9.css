@@ -1,0 +1,47 @@
+div.teste1 {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 70px;
+    background-color: green;
+}
+
+div.teste2 {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 70px;
+    background-color: green;
+}
+
+div.teste3 {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 70px;
+    background-color: blue;
+}
+
+div.teste4 {
+    display: block;
+    float: right;
+    width: 100px;
+    height: 70px;
+    background-color: blue;
+}
+
+div.teste5 {
+    display: block;
+    float: right;
+    width: 100px;
+    height: 70px;
+    background-color: yellow;
+}
+
+div.teste6 {
+    display: block;
+    float: right;
+    width: 100px;
+    height: 70px;
+    background-color: yellow;
+}
